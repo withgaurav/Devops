@@ -84,10 +84,11 @@ Append the contents of one file to the end of another file
 
 - It is also used to rename a file or folder.
 
-rename the file - if you want to rename any file or directory you can just simply use the command, for example, if my file name is linux and I want to rename it I can write the command as
+- rename the file - if you want to rename any file or directory you can just simply use the command, for example, if my file name is linux and I want to rename it I can write the command as
 
 
         mv linux set
+        
 - dot(.) represents the current directory if we want to move a file named "file1" to the current directory named "folder1" then we write the path of that file followed by a dot (.)
 
 
@@ -108,7 +109,7 @@ rm filename
 - To remove non-empty directories
 
 
-rm -r foldername
+        rm -r foldername
 
 </summary>
 <summary>df - This command displays the free disk space. As you can see in the image below it is showing in the Linux folder the amount of storage available and used.</summary>
@@ -164,11 +165,11 @@ tail - It shows the few lines from behind 'tail file.txt'
 
 
         grep -win "amazon" name.txt
-You can count which all file matches these names by using the command
+- You can count which all file matches these names by using the command
 
 
         grep -wirl "amazon" .
-You can count how many files there which contain 'amazon" by using the command
+- You can count how many files there which contain 'amazon" by using the command
 
 
         grep -wirc "amazon" .
@@ -180,31 +181,39 @@ You can count how many files there which contain 'amazon" by using the command
         history | grep "ls -l"
 </summary>
 <summary>Terminal Shortcuts
+        
 Suppose you write the code 'git push origin main' and from the code, you want to move to the beginning at the very first of your code then you can press "ctrl + a" on your keyboard. If you wanna move to the end then you can press 'ctrl + e' then you can move to the very end of your code. You can remove all the code written there by 'ctrl + u'. You can type 'history' in your terminal all the commands which you have run before will be shown as your output. If you want to run any command again then you can type '!189' Then your command will run again.
 
 You can use multiple commands in the same line for example
+        
+   * git add . ; git commit -m "message"; git push they will be running successfully
 
-        git add . ; git commit -m "message"; git push They will be running successfully.
-
-        sort -r:- This command is used to display the file in reverse order.
-
-        sort -n:- This command is used to display the file in numerical order.
-
-        ping:- this command is used to connect us to the server and grab all the information related to it
+   * sort -r:- This command is used to display the file in reverse order.
+        
+   * sort -n:- This command is used to display the file in numerical order.
+        
+   * ping:- this command is used to connect us to the server and grab all the information related to it
 
 </summary>
+
 <summary>
-##Benefits
--It is free to use and lightweight.
+        
+Benefits
+        
+   * It is free to use and lightweight.
 
--It is open-source, and source codes are easily available.
+   * It is open-source, and source codes are easily available.
 
--The requirements for running Linux are much less than other operating systems.
+   * The requirements for running Linux are much less than other operating systems.
 
--Its security is most appreciated so it is used by many developers.
+   * Its security is most appreciated so it is used by many developers.
 
--It provides high performance and is very flexible.</summary>
+   * It provides high performance and is very flexible.</summary>
+
 <summary>
-##Resources
-Kunal Kushwaha Youtube https://gauravshukla.hashnode.dev/linux-commands
+        
+Resources
+        
+Kunal Kushwaha Youtube 
+        
 </summary>
