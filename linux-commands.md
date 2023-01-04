@@ -3,7 +3,7 @@
 
 ## List of all the commands
 
-<summary>ls - This command helps us to list all the files/folders in the current directory. You can use the command given below
+<summary>ls - This command helps us to list all the files/folders in the current directory. You can use the command given 
 
         ls
 
