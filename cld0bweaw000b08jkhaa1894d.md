@@ -4,7 +4,7 @@ I came to know about the Winter of Code 3.0 from Twitter. I saw this post on Twi
 
 ### #Selecting my WOC 3.0 Organization
 
-The WOC 3.0 2023 organizations were announced on 10 December 2022, at 11:30 PM IST. I started looking for organizations for working on those projects. I got intrigued by the projects announced by three organizations – CommunityFamily, CodeKhata and Winter of Code's official website. The reason for selecting these organizations are as follows:
+The WOC 3.0 2023 organizations were announced on 10 December 2022, at 11:30 PM IST. I started looking for organizations for working on those projects. I got intrigued by the projects announced by three organizations – Codefamily, CodeKhata and Winter of Code's official website. The reason for selecting these organizations are as follows:
 
 **GitHub**
 
@@ -34,6 +34,6 @@ I had been actively contributing to CodeKhata for quite some time. I even starte
 
 Once I was done selecting the orgs, it was time to understand the projects!!
 
-Then on 16th January 2023 at 9.47 PM IST, I came to know that my application got selected I will be writing a proposal for them. I realized I don't have enough time to write the proposal. If my proposal got selected then I am looking forward to working with CommunityFamily or CodeKhata with my amazing mentors.
+Then on 16th January 2023 at 9.47 PM IST, I came to know that my application got selected I will be writing a proposal for them. I realized I don't have enough time to write the proposal. If my proposal got selected then I am looking forward to working with Codefamily or CodeKhata with my amazing mentors.
 
 ## Happy Coding!
