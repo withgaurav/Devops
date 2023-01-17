@@ -21,17 +21,17 @@ I had been actively contributing to CodeKhata for quite some time. I even starte
     * The maintainers of CodeKhata are very helpful. They helped me a lot. You can also start contributing if you wish to contribute to this organization here is the link [Code-Khata](https://github.com/DevScript/Code-Khata)
         
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673964505195/ad4d202e-fc0e-4fe6-9cc5-c7bb9e9e141d.jpeg align="center")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673966008700/9e0e777b-3408-4b3d-bd7b-126b5eb96df2.jpeg align="center")
     
+
 * **Winter of Code 3.0**
     
     * I have fixed the bugs and fixed some broken links which I have seen that is not been opening
         
     * So that people can refer to those links without facing any issues.
         
-    
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673964533731/c82ec028-a181-413d-9ff9-38cd8c341675.jpeg align="center")
-    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673966043695/ceade1fe-9692-445a-a072-ffcc7ee95ed4.jpeg align="center")
 
 Once I was done selecting the orgs, it was time to understand the projects!!
 
