@@ -20,9 +20,8 @@ I had been actively contributing to CodeKhata for quite some time. I even starte
         
     * The maintainers of CodeKhata are very helpful. They helped me a lot. You can also start contributing if you wish to contribute to this organization here is the link [Code-Khata](https://github.com/DevScript/Code-Khata)
         
-    
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673966008700/9e0e777b-3408-4b3d-bd7b-126b5eb96df2.jpeg align="center")
-    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673966115939/fbd959d2-9e57-4814-8b4a-8eaecb4d46df.jpeg align="center")
 
 * **Winter of Code 3.0**
     
